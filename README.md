@@ -1,3 +1,5 @@
+# This repo has been archived. Check [here](https://github.com/Living-Minerals-Lab/AECP_frontend) for a new implementation of the front end.
+
 # mini_platform_fe
 
 This template should help get you started developing with Vue 3 in Vite.
